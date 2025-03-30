@@ -7,7 +7,6 @@ import Pets from './Component/Pets/Pets'
 function App() {
   return (
     <>
-    <h2>its me</h2>
       <h3>godhand</h3>
       <Header />
       <Routes>
